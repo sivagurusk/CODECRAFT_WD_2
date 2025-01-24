@@ -7,7 +7,7 @@ body {
     height: 100vh;
     margin: 0;
     background: linear-gradient(135deg, #ff9a9e, #fad0c4);
-    background-image: url(hulk.png);
+    background-image: url(../stopwatch/hulk.png);
     background-repeat: no-repeat;
     background-size: cover;
     
@@ -17,7 +17,7 @@ body {
 .stopwatch {
     text-align: center;
     background: #ffffff;
-    background-image: url(deadpool.jpg);
+    background-image: url(../stopwatch/deadpool.jpg);
     background-size:auto;
     padding: 20px;
     border-radius: 10px;
